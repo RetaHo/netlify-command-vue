@@ -8,7 +8,7 @@
   <div>Hello Word!</div>
   <div>Hello Word!</div>
   <div>Hello Word!</div>
-  <div>Hello Word!</div>
+  <div>Hello Reta!</div>
   <router-view/>
 </template>
 
